@@ -1,6 +1,11 @@
 <?php
-
-namespace App;
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 2019/3/22
+ * Time: 18:18
+ */
+namespace App\Models;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
